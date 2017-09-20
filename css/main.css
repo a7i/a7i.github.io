@@ -229,6 +229,10 @@ hr {
 	height: 0;
 }
 
+#stats .stats-header {
+	color: #ffffff;
+}
+
 /**
  * Lists - (_document-setup.scss)
  * -------------------------------------------------------------------
