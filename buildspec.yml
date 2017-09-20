@@ -3,7 +3,7 @@ version: 0.1
 phases:
   install:
     commands:
-      - echo "Installing bower in the install phase...""
+      - echo "Installing bower in the install phase..."
       - npm install -g bower
       - echo "Installation Successfull"
   build:
