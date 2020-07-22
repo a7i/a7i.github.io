@@ -1,12 +1,12 @@
 {
   "name": "resume",
   "authors": [
-    "Amir Alavi <amiralavi@outlook.com>"
+    "Amir Alavi <amir@beyondcloudtechnologies.com>"
   ],
   "description": "Amir's resume",
   "main": "index.html",
   "license": "MIT",
-  "homepage": "amir.lovetraveldevour.com",
+  "homepage": "https://www.amiralavi.info/",
   "private": true,
   "ignore": [
     "**/.*",
